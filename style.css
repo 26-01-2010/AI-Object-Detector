@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start
+{
+    font-size: 20px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 2px ridge white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px grey;
+}
